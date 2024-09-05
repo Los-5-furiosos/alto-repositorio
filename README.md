@@ -1,2 +1,6 @@
-[main 69ee477] Modificación a README.d de Vatri
- 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"Mi Proyecto" 
+"Añadiendo contenido en la rama nueva-funcionalidad." 
+"Modificacion en la rama principal." 
+"Modificacion a README.md de Vatri"
+rama-santiago
